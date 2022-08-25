@@ -1,0 +1,11 @@
+[
+	{ "s": "GENERAL", "p": [29] },
+	{ "s": "GESTION", "p": [29, 2, 1] },
+	{ "s": "GESTIÓN", "p": [2, 29] },
+	{ "s": "GLOSARIO", "p": [29] },
+	{ "s": "GUARDA", "p": [28] },
+	{ "s": "GUARDADOS", "p": [9] },
+	{ "s": "GUARDAR", "p": [28, 23, 9] },
+	{ "s": "GUARDE", "p": [28] },
+	{ "s": "GUARDO", "p": [19] }
+]
